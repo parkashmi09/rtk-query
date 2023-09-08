@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "Sample User",
+      "body": "Some random samples ",
+      "userId": "1234",
+      "id": "1"
+    },
+    {
+      "title": "new add",
+      "body": "user here",
+      "id": "190.9844457058616",
+      "userId": "946.030948184051"
+    },
+    {
+      "title": "new added",
+      "body": "body",
+      "id": "113.01155694895537",
+      "userId": "394.3758861399198"
+    }
+  ]
+}
